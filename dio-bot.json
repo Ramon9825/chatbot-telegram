@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digital-inovation-one-bot-uegl",
+  "private_key_id": "27592590efc7b687f15a79092f8d08a1f092ee3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDdi5/G+uXbZlqP\nP67H/YSNGBTmHLiQqJmW2X8/cFEZi3N1ZYRvKCmXvk2Lnpy/Ov2j0n0HioiDVow0\nzedHzJJbMdQ/mewnjWNuAfS7Py4l0pN03rtiW9Uedc9wjUwaa+Z3UrmwEoJATe9r\nDlqcuB9Alyse7Kh0Tjdarhwvsqxon3pzwlkkw7FK/raxP6/UmNhFTBN+gnnhZQbu\nwgkV1fM1LumVgyM+hS5KhyYUnOk7zIb/fiKc7dQ+/2HapMtP8OMimwXmGGyoNIMU\nZV1pzC2c8p0xQ3okQ6gWgPInYTUz06bcxX8iKd0TFyy47Wzpdbv6sN60osDPsdOZ\nFfmI1xvTAgMBAAECggEAFjkhR+Z3FDEKOIBc2fbWSwj1X7fV07z12ynqF8T+fZ99\nb3NFe5j9wxj10mGQu6YBN2Ov4wfEddhCrDFTV+Jvc/JlphOcmsMWDDzp/bZyvJyI\n6hpFlbI8iJesvU+PKL9WGPYVZlIU+rpWn9iKwlm92M7RJoL6yt/lsZTxgt9baAsX\nd0a5ATghi6+YubcPTVVpfyM/ct7VOT3URjR91L/WS9PsykffnQgv1qNefzOJ6N2P\n70OYbtsB5JOXtVnIJpqRGvFrgygH+jFOBFeHINHRISxXCdlEfCSr3OsLbv5UchK3\nzucY73Hu++DUyYCSfHszY5BAYq2dcbaJPgM68I3qMQKBgQD7AaZXTQmkzRDDWNt8\nSL45c0Zx2xu4PpE1uPHY5QI09EZ5k7GblG8BiPcEzNQ03/6nc2x3HPGENPRetdv5\n+ICXjg6Semc57ExJBBY0q3jxhwXNWE24SlOldv/bDhEc4B80fn3FB2kuUpbF8pzY\nIh+LeVj8hHWOTvXYtVdHTvTMfwKBgQDh8+6rKWGfTsQckmwbE2tzG1u/JrNPsOIW\nrhyq4qVcwfNlGHTakvaZNuKQPahq+jznEc/LBlrVPBBMFTpP4r4cevuSUU7J0UZg\n8NzFMi12sVJI3qItHlnuJ+tO8G8JR6pnjrAYjhAbK/yZJtYShJp/Xtr2PuV2cVB3\nA1jJ6SoWrQKBgCdkOeOnfmTznbbagg9+JwRDGAIUPcRrZUSGEsZUIkWHNGwuBoiB\nAe6+vO1u67qkkIVc8t+6lhiGavdWGQCgxCWEsLrCJOMNN2eaEZYQdvmIlBuGySOr\n3nawNzT8fykF7z/AviImqJYRdgH4si6lJEgyMgnnC7/amnB4/Qp+1KInAoGAbY7a\nfdGdzSHjAzuYAXTkF7b/QGsibJSGu5qGufEVXymHu9Ak8MprmZS8PFY5ME3Pc/b1\n+ypEprnt6QYt9QgrSCH1k1erTT4U0vJXCaKv2qpWDJEur5PU5R4kAW2hWS2PmZDd\nH7raYmJso1HqYKY9R18V6mpK1qhQ7LQJvDU7PC0CgYEAqMPfdLN9nagA4B1oKA9J\nTr25J4+vpNF0J9KY2Ya+9HATYxVAWtpKWc6DRLqLnGQUQYlRzdOixGbpwJWYROPi\ndX4SDA9coeE8b/kJkZ0hZ+aAdDHCCBdr4LAUx7wPyyiKbzy100zG6UgCsiaG5vA8\nUX9Nut5KE15bmaQo4M0aVgc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "digital-inovation-chatbot@digital-inovation-one-bot-uegl.iam.gserviceaccount.com",
+  "client_id": "111915883710853231677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/digital-inovation-chatbot%40digital-inovation-one-bot-uegl.iam.gserviceaccount.com"
+}
